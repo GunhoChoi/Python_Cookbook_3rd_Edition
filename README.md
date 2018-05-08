@@ -1,6 +1,11 @@
 # Python_Cookbook_3rd_Edition
 파이썬 공부
 
+# Blogs
+
+1. [About Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
+
+
 ## CHAPTER 1: Data Structures and Algorithms
   
 - 1.2 Star Expression in Python
