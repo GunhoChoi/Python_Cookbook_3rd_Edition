@@ -3,7 +3,7 @@
 
 # Blogs
 
-1. [About Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
+1. About Magic Method(https://corikachu.github.io/articles/python/python-magic-method)
 
 
 ## CHAPTER 1: Data Structures and Algorithms
