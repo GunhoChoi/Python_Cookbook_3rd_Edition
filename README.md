@@ -4,6 +4,7 @@
 # Blogs
 
 1. About Magic Method(https://corikachu.github.io/articles/python/python-magic-method)
+2. Iterable vs Iterators vs Generator (http://nvie.com/posts/iterators-vs-generators/)
 
 
 ## CHAPTER 1: Data Structures and Algorithms
